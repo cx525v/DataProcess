@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWha7quuJh22sySRaSHqFRez/lM9k8p8NcJZN5UOexFOxeQDcWXBiVanLvvDPB1G50c2vEDRfASrbMAKAInYbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Batman\\Documents\\DataProcess\\DataProcess\\DataProcess\\DataProcess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Batman\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Batman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Batman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
